@@ -8089,6 +8089,26 @@
 		border-top-color: rgba(0, 0, 0, 0.2);
 	}
 
+.addgoodreads{
+background-color: #4D7FB2;
+display: inline-block;
+margin: 10px 0px 0px;
+-webkit-border-radius: 5px; 
+-moz-border-radius: 5px; 
+border-radius: 5px;
+padding: 4px;
+width:130px;
+height:41px;
+}
+.addgoodreads:hover{
+background-color: #3D668F;
+}
+.addgoodreads img{
+width:105px;
+height:34px;
+padding:0;
+}
+
 /* Wrapper */
 
 	#wrapper {
