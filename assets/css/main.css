@@ -8089,6 +8089,27 @@
 		border-top-color: rgba(0, 0, 0, 0.2);
 	}
 
+
+.addromance.io{
+background-color: #4D7FB2;
+display: inline-block;
+margin: 10px 0px 0px;
+-webkit-border-radius: 5px; 
+-moz-border-radius: 5px; 
+border-radius: 5px;
+padding: 4px;
+width:130px;
+height:43px;
+}
+.addromanceio:hover{
+background-color: #3D668F;
+}
+.addromanceio img{
+width:120px;
+height:36px;
+padding:0;
+}
+
 .addgoodreads{
 background-color: #4D7FB2;
 display: inline-block;
@@ -8108,6 +8129,7 @@ width:120px;
 height:36px;
 padding:0;
 }
+	
 
 /* Wrapper */
 
